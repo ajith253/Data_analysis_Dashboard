@@ -3,7 +3,7 @@
 Built a dynamic Excel Sales Dashboard to track and analyze sales performance across regions, products, and time periods. Integrated pivot tables, slicers, and visual charts to enable interactive, real-time insights.
 
 ## Dataset Used 
-- <a href="https://github.com/ajith253/Data_analysis_Dashboard/raw/main/Excel_Sales_Dashboard.xlsx" target="_blank">Download Excel Dataset</a>
+- <a href="https://github.com/ajith253/Data_analysis_Dashboard/blob/main/Excel_Sales_Dashborad.xlsx" target="_blank">Download Excel Dataset</a>
 
 ## Questions (KPIs)
 
