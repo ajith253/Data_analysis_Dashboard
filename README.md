@@ -32,3 +32,6 @@ Built a dynamic Excel Sales Dashboard to track and analyze sales performance acr
 - Visualize the data with charts to display sales trends, profit by product, and top customers.
 
 ## Dashboard 
+
+![Sales_Dashboard](https://github.com/user-attachments/assets/c44861f4-93cd-4e60-a206-e5ba8c1eeabe)
+
