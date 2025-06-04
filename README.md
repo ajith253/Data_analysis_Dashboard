@@ -8,13 +8,21 @@ Built a dynamic Excel Sales Dashboard to track and analyze sales performance acr
 ## Questions (KPIs)
 
 -What is the total sales amount for the year 2004?
+
 -Which customer ordered the highest quantity of products overall?
+
 -What is the total profit for the Classic Cars product category?
+
 -How many orders were placed for Ships in 2005?
+
 -Which country had the highest total sales in 2003?
+
 -What is the total tax collected from sales in the USA?
+
 -Who is the top customer by sales for Vintage Cars in 2004?
+
 -Which city in Spain had the highest sales in 2005?
+
 - Dashboard Interaction <a herf="https://github.com/ajith253/Data_analysis_Dashboard/blob/main/Sales_Dashboard.png">View Dashboard</a>
 
 ## Process
