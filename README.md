@@ -1,2 +1,3 @@
-# Data_analysis_Dashboard
-This Excel file contains year-wise data analysis using pivot tables and advanced Excel functions &amp; This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# AUTOMOBILE SALES DASHBOARD (Interactive Dashboard using MS Excel)
+## Project Objective 
+Built a dynamic Excel Sales Dashboard to track and analyze sales performance across regions, products, and time periods. Integrated pivot tables, slicers, and visual charts to enable interactive, real-time insights.
