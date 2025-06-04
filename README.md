@@ -35,3 +35,21 @@ Built a dynamic Excel Sales Dashboard to track and analyze sales performance acr
 
 ![Sales_Dashboard](https://github.com/user-attachments/assets/c44861f4-93cd-4e60-a206-e5ba8c1eeabe)
 
+
+## Project Insight 
+
+- Total sales: $8,955,579; profit: $8,776,468 across 2003-2005.
+- Top markets: USA ($3,136,301 profit), Spain ($993,082 profit).
+- Top customer: Euro Shopping Channel (6,884 units ordered).
+- Key products: Classic Cars ($3,182,102 profit), Ships ($1,274,682 profit).
+- Dashboard uses bar/pie charts with filters for year, product, country.
+
+## Final Conclusion
+
+The Automobile Sales Dashboard effectively visualizes sales and profit trends from 2003–2005, highlighting the USA and Spain as dominant markets and Classic Cars as the top-performing product. With Euro Shopping Channel leading in orders, the dashboard’s interactive charts and filters enable stakeholders to analyze performance efficiently, supporting data-driven decisions for future sales strategies.
+
+
+
+
+
+
