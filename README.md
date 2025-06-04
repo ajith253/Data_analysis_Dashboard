@@ -23,7 +23,7 @@ Built a dynamic Excel Sales Dashboard to track and analyze sales performance acr
 
 -Which city in Spain had the highest sales in 2005?
 
-- Dashboard Interaction <a herf="https://github.com/ajith253/Data_analysis_Dashboard/blob/main/Sales_Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a herf="https://github.com/ajith253/Data_analysis_Dashboard/blob/main/Sales_Dashboard.xlsx">View Dashboard</a>
 
 ## Process
 - Automobile Sales data Verify for any missing values, and sort out the same 
